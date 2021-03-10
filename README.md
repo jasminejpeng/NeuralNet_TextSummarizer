@@ -1,1 +1,1 @@
-# NeuralNet_TextSummarizer
+# LanguageDetector
